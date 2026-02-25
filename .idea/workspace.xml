@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5599e40-312d-4a2a-b78d-f80d2a23a6fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/ActionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Checkboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/ChromeHeadless.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Dropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/EcommerceAddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Iframes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/OpenLinksInSeparateTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Screenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="39ptRhE5xV7ZyJ1bNE3ZXF6G6kZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.locators.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ActionsExample.actionClass.executor": "Run",
+    "TestNG.Alerts.alerts.executor": "Run",
+    "TestNG.ChromeHeadless.headless.executor": "Run",
+    "TestNG.EcommerceAddToCart.addToCart.executor": "Run",
+    "TestNG.Iframes.frames.executor": "Run",
+    "TestNG.OpenLinksInSeparateTabs.openLinks.executor": "Run",
+    "TestNG.OpenLinksInSeparateTabs.printTitleOfAllPages.executor": "Run",
+    "TestNG.Screenshot.elementScreenshot.executor": "Run",
+    "TestNG.Screenshot.pageScreenshot.executor": "Run",
+    "TestNG.WindowHandles.windowHandling.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/280679/Intellij/SeleniumPractice/src/test/java",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OpenLinksInSeparateTabs.openLinks">
+    <configuration name="ActionsExample.actionClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.ActionsExample" />
+      <option name="METHOD_NAME" value="actionClass" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iframes.frames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.Iframes" />
+      <option name="METHOD_NAME" value="frames" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenLinksInSeparateTabs.openLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.OpenLinksInSeparateTabs" />
+      <option name="METHOD_NAME" value="openLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenLinksInSeparateTabs.printTitleOfAllPages" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.OpenLinksInSeparateTabs" />
+      <option name="METHOD_NAME" value="printTitleOfAllPages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowHandles.windowHandling" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.WindowHandles" />
+      <option name="METHOD_NAME" value="windowHandling" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OpenLinksInSeparateTabs.openLinks" />
+        <item itemvalue="TestNG.OpenLinksInSeparateTabs.printTitleOfAllPages" />
+        <item itemvalue="TestNG.ActionsExample.actionClass" />
+        <item itemvalue="TestNG.Iframes.frames" />
+        <item itemvalue="TestNG.WindowHandles.windowHandling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5599e40-312d-4a2a-b78d-f80d2a23a6fd" name="Changes" comment="" />
+      <created>1771404836226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771404836226</updated>
+    </task>
+    <servers />
+  </component>
+</project>
