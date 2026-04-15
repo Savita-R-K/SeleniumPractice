@@ -4,28 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5599e40-312d-4a2a-b78d-f80d2a23a6fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/ActionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Checkboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/ChromeHeadless.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Dropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/EcommerceAddToCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Iframes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/OpenLinksInSeparateTabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Scroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/WindowHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.xml" afterDir="false" />
+    <list default="true" id="b5599e40-312d-4a2a-b78d-f80d2a23a6fd" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallelExecution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parameterization.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/BrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/DeleteCookiesUsingManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/chromeOptions/BlockPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/chromeOptions/ChangeDefaultDownloadDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/chromeOptions/ProxyWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/chromeOptions/SSLCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/newseleniumfeatures/ElementDimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/newseleniumfeatures/ElementScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/newseleniumfeatures/RelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/newseleniumfeatures/SwitchToNewWindowOrTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/streams/StreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/streams/StreamsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/SetTimeOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/TurnOffTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/annotations/APITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/annotations/MobileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/annotations/WebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/listenersPractice/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/listenersPractice/ListenerTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/parameterization/DataProviderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/parameterization/ParametersFromXmlFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/regexAndGroups/TestCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/xmlPractice/regexAndGroups/TestCase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/Dropdowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/Dropdowns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/Screenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/Scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/Scroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/Streams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,48 +67,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.locators.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.ActionsExample.actionClass.executor": "Run",
-    "TestNG.Alerts.alerts.executor": "Run",
-    "TestNG.ChromeHeadless.headless.executor": "Run",
-    "TestNG.EcommerceAddToCart.addToCart.executor": "Run",
-    "TestNG.Iframes.frames.executor": "Run",
-    "TestNG.OpenLinksInSeparateTabs.openLinks.executor": "Run",
-    "TestNG.OpenLinksInSeparateTabs.printTitleOfAllPages.executor": "Run",
-    "TestNG.Screenshot.elementScreenshot.executor": "Run",
-    "TestNG.Screenshot.pageScreenshot.executor": "Run",
-    "TestNG.WindowHandles.windowHandling.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/280679/Intellij/SeleniumPractice/src/test/java",
-    "project.structure.last.edited": "Facets",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BrokenLinks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.locators.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.ActionsExample.actionClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Alerts.alerts.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrokenLinks.brokenLinksTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/280679/Intellij/SeleniumPractice/Regex.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/280679/Intellij/SeleniumPractice/groups.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/280679/Intellij/SeleniumPractice/listeners.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/280679/Intellij/SeleniumPractice/parallelExecution.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/280679/Intellij/SeleniumPractice/parameterization.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/280679/Intellij/SeleniumPractice/test.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ChromeHeadless.headless.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DataProviderClass.dataProviderTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DependsOnMethods.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EcommerceAddToCart.addToCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Iframes.frames.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ListenerTestCases.failedTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OpenLinksInSeparateTabs.openLinks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OpenLinksInSeparateTabs.printTitleOfAllPages.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ParametersFromXmlFile.printSuiteLevelParameters.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProxyWebsite.setCapabilitiesProxy.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RelativeLocators.aboveBelowLeftOfRightOf.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SSLCheck.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Screenshot.elementScreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Screenshot.pageScreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Scroll.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Scroll.scrollTableElement.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SetTimeOut.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Streams.anyMatchFunction.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Streams.example.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Streams.sortedAndForEach.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StreamsExample.example1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SwitchToNewWindowOrTab.switchToNewTab.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SwitchToNewWindowOrTab.switchToNewWindow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TurnOffTestCases.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WindowHandles.windowHandling.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/280679/Intellij/SeleniumPractice/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="practice.chrome.options" />
       <recent name="practice" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.OpenLinksInSeparateTabs.openLinks">
-    <configuration name="ActionsExample.actionClass" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/280679/Intellij/SeleniumPractice/parameterization.xml">
+    <configuration name="C:/Users/280679/Intellij/SeleniumPractice/listeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/listeners.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/280679/Intellij/SeleniumPractice/parallelExecution.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallelExecution.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/280679/Intellij/SeleniumPractice/parameterization.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parameterization.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderClass.dataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="practice.xmlPractice.parameterization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.ActionsExample" />
-      <option name="METHOD_NAME" value="actionClass" />
+      <option name="PACKAGE_NAME" value="practice.xmlPractice.parameterization" />
+      <option name="MAIN_CLASS_NAME" value="practice.xmlPractice.parameterization.DataProviderClass" />
+      <option name="METHOD_NAME" value="dataProviderTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -100,71 +172,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iframes.frames" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ListenerTestCases.failedTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="practice.xmlPractice.listenersPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.Iframes" />
-      <option name="METHOD_NAME" value="frames" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OpenLinksInSeparateTabs.openLinks" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.OpenLinksInSeparateTabs" />
-      <option name="METHOD_NAME" value="openLinks" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OpenLinksInSeparateTabs.printTitleOfAllPages" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.OpenLinksInSeparateTabs" />
-      <option name="METHOD_NAME" value="printTitleOfAllPages" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WindowHandles.windowHandling" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.WindowHandles" />
-      <option name="METHOD_NAME" value="windowHandling" />
+      <option name="PACKAGE_NAME" value="practice.xmlPractice.listenersPractice" />
+      <option name="MAIN_CLASS_NAME" value="practice.xmlPractice.listenersPractice.ListenerTestCases" />
+      <option name="METHOD_NAME" value="failedTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -174,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.OpenLinksInSeparateTabs.openLinks" />
-        <item itemvalue="TestNG.OpenLinksInSeparateTabs.printTitleOfAllPages" />
-        <item itemvalue="TestNG.ActionsExample.actionClass" />
-        <item itemvalue="TestNG.Iframes.frames" />
-        <item itemvalue="TestNG.WindowHandles.windowHandling" />
+        <item itemvalue="TestNG.C:/Users/280679/Intellij/SeleniumPractice/parameterization.xml" />
+        <item itemvalue="TestNG.C:/Users/280679/Intellij/SeleniumPractice/parallelExecution.xml" />
+        <item itemvalue="TestNG.C:/Users/280679/Intellij/SeleniumPractice/listeners.xml" />
+        <item itemvalue="TestNG.ListenerTestCases.failedTest" />
+        <item itemvalue="TestNG.DataProviderClass.dataProviderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +209,19 @@
       <option name="presentableId" value="Default" />
       <updated>1771404836226</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1772006610455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772006610455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>

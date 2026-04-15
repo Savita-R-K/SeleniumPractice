@@ -8,21 +8,21 @@ public class Dropdowns {
 
     WebDriver driver=new ChromeDriver();
 
-    @Test
-    public void staticDropdowns(){
-        driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
-    }
-
-    @Test
-    public void autoSuggestiveDropdowns(){
-        WebDriver driver=new ChromeDriver();
-        driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
-    }
-
-    @Test
-    public void dynamicDropdowns(){
-        WebDriver driver=new ChromeDriver();
-        driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
-    }
+//    @Test
+//    public void staticDropdowns(){
+//        driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
+//    }
+//
+//    @Test
+//    public void autoSuggestiveDropdowns(){
+//        WebDriver driver=new ChromeDriver();
+//        driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
+//    }
+//
+//    @Test
+//    public void dynamicDropdowns(){
+//        WebDriver driver=new ChromeDriver();
+//        driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
+//    }
 
 }

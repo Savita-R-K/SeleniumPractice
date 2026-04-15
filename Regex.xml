@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="regex">
+    <test name="using method name">
+        <classes>
+            <class name="practice.xmlPractice.regexAndGroups.TestCase1">
+                <methods>
+                    <include name="Web.*"/>
+                </methods>
+            </class>
+            <class name="practice.xmlPractice.regexAndGroups.TestCase2">
+                <methods>
+                    <include name="Web.*"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

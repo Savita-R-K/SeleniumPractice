@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Selenium">
+    <test name="A">
+        <classes>
+            <class name="practice.xmlPractice.annotations.APITest"/>
+            <class name="practice.xmlPractice.annotations.MobileTest"/>
+        </classes>
+    </test>
+    <test name="B">
+        <classes>
+            <class name="practice.xmlPractice.annotations.WebTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ListenerPractice">
+    <listeners>
+        <listener class-name="practice.xmlPractice.listenersPractice.Listener"/>
+    </listeners>
+    <test name="listeners">
+        <classes>
+            <class name="practice.xmlPractice.listenersPractice.ListenerTestCases"/>
+        </classes>
+    </test>
+</suite>

@@ -23,14 +23,5 @@ public class Screenshot {
         File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(src,new File("screenshots/pageScreenshot.png"));
     }
-    @Test
-    public void elementScreenshot() throws IOException {
-        WebDriver driver= new ChromeDriver();
-        driver.get("https://rahulshettyacademy.com/AutomationPractice/");
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
-        WebElement ele=driver.findElement(By.xpath("//button[text()='Home']"));
-        File src=ele.getScreenshotAs(OutputType.FILE);
-        FileUtils.copyFile(src,new File("screenshots/elementScreenshot.png"));
-    }
+
 }
